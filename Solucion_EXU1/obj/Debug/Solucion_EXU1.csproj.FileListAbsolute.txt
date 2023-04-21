@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\bin\Debug\Solucion_EXU1.exe.config
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\bin\Debug\Solucion_EXU1.exe
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\bin\Debug\Solucion_EXU1.pdb
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.Ejercicio01.resources
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.Ejercicio02.resources
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.Ejercicio05.resources
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.Properties.Resources.resources
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.exe
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.pdb
+C:\Users\HP\source\repos\Solucion_EXU1\Solucion_EXU1\obj\Debug\Solucion_EXU1.Ejercicio04.resources
